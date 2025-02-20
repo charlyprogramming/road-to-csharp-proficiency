@@ -1,0 +1,15 @@
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\bin\Debug\net8.0\FirstExercise.exe
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\bin\Debug\net8.0\FirstExercise.deps.json
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\bin\Debug\net8.0\FirstExercise.runtimeconfig.json
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\bin\Debug\net8.0\FirstExercise.dll
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\bin\Debug\net8.0\FirstExercise.pdb
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\FirstExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\FirstExercise.AssemblyInfoInputs.cache
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\FirstExercise.AssemblyInfo.cs
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\FirstExercise.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\FirstExercise.sourcelink.json
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\FirstExercise.dll
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\refint\FirstExercise.dll
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\FirstExercise.pdb
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\FirstExercise.genruntimeconfig.cache
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\FirstExercise\obj\Debug\net8.0\ref\FirstExercise.dll
