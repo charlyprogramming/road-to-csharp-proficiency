@@ -1,0 +1,15 @@
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\bin\Debug\net8.0\ToDoListApp.exe
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\bin\Debug\net8.0\ToDoListApp.deps.json
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\bin\Debug\net8.0\ToDoListApp.runtimeconfig.json
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\bin\Debug\net8.0\ToDoListApp.dll
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\bin\Debug\net8.0\ToDoListApp.pdb
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfoInputs.cache
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfo.cs
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\ToDoListApp.sourcelink.json
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\ToDoListApp.dll
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\refint\ToDoListApp.dll
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\ToDoListApp.pdb
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\ToDoListApp.genruntimeconfig.cache
+C:\Users\Carlos\RoadToC#Proficiency\Projects\road-to-csharp-proficiency\Exercises\ToDoListApp\obj\Debug\net8.0\ref\ToDoListApp.dll

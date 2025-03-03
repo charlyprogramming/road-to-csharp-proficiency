@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{72EF5EB1-B308-CD20-4E1B-89C2486FD9E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstExercise", "Exercises\FirstExercise\FirstExercise.csproj", "{396D2814-BF10-C348-003A-B2618E789119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp", "Exercises\ToDoListApp\ToDoListApp.csproj", "{4C294165-C340-29E1-5710-3FA50DF2D5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{396D2814-BF10-C348-003A-B2618E789119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396D2814-BF10-C348-003A-B2618E789119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396D2814-BF10-C348-003A-B2618E789119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396D2814-BF10-C348-003A-B2618E789119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C294165-C340-29E1-5710-3FA50DF2D5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C294165-C340-29E1-5710-3FA50DF2D5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C294165-C340-29E1-5710-3FA50DF2D5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C294165-C340-29E1-5710-3FA50DF2D5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{396D2814-BF10-C348-003A-B2618E789119} = {72EF5EB1-B308-CD20-4E1B-89C2486FD9E1}
+		{4C294165-C340-29E1-5710-3FA50DF2D5BA} = {72EF5EB1-B308-CD20-4E1B-89C2486FD9E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B1050C6-BE8F-4726-8517-0135D637E1CF}
+	EndGlobalSection
+EndGlobal
